@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891925656984",
+    "firebase_url": "https://fir-database-1006f-default-rtdb.firebaseio.com",
+    "project_id": "fir-database-1006f",
+    "storage_bucket": "fir-database-1006f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891925656984:android:ef4352a9c5e2969c18e7ed",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891925656984-hgv8lccedhqqohsqka4js4a6vf837k29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa-ShS4tV_dBgevpCsgoy9yIxXhIjcEI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891925656984-hgv8lccedhqqohsqka4js4a6vf837k29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
